@@ -18,5 +18,5 @@ console.log(bmi);
 })
 
 app.listen(3000, function(){
-    console.log("server is running on port 3k");
+    console.log("ok bhai");
 });
